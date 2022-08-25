@@ -2,20 +2,11 @@
 
 
 <h2>Screenshots</h2>
-<img
-  src="![login_PC](https://user-images.githubusercontent.com/96646536/186699238-c1f8c40a-f2f8-4d7d-b4c2-634da2ca936a.png)
-"
-  alt=""
-  title="DESKTOP LOGIN PAGE"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
+![login_PC](https://user-images.githubusercontent.com/96646536/186700201-563a026c-caa4-4761-8e7a-c0d3d9175a43.png)
 
 <h2>The above image shows the LOGIN PAGE which is designed for desktops and the latter image is designed for mobiles accordingly.</h2>
 
-<img
-  src="![login_MOBILE](https://user-images.githubusercontent.com/96646536/186699043-fe369a6a-767c-45bb-8fc4-6d98ec564a54.png)
-"
-  alt=""
-  title="MOBILE LOGIN PAGE"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+![login_MOBILE](https://user-images.githubusercontent.com/96646536/186700307-71116ff0-fe4c-43b1-be2a-3576f692ab75.png)
+
 
